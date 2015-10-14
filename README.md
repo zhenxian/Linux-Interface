@@ -1,7 +1,7 @@
 # linux-interface
 practice to get familiar with The Linux Programming Interface
 
-Following the book The Linux Programming Interface and the corresponding website
+Following the book The Linux Programming Interface and the corresponding website(http://man7.org/tlpi/)
 
 Basic demand: totally understand the book and codes
 
